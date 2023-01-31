@@ -1,4 +1,4 @@
-# Ninadbha-Logistic_Regression-Binary-Classification-
+# Logistic_Regression-Binary-Classification-
 I had Download employee retention dataset from here: https://www.kaggle.com/giripujar/hr-analytics.
 
 i have done the following some operations. 
